@@ -1,2 +1,2 @@
-# Study-Time---C-
+# Study-Time-C++
 Bahasa Pemrograman C++
